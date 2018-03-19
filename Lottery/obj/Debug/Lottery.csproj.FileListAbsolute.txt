@@ -1,0 +1,9 @@
+C:\Users\svasco\Documents\OOPL\Lottery\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\svasco\Documents\OOPL\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\svasco\Documents\OOPL\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\svasco\Documents\OOPL\Lottery\Lottery\obj\Debug\Lottery.csprojResolveAssemblyReference.cache
+C:\Users\svasco\Documents\OOPL\Lottery\Lottery\obj\Debug\Lottery.Properties.Resources.resources
+C:\Users\svasco\Documents\OOPL\Lottery\Lottery\obj\Debug\Lottery.csproj.GenerateResource.Cache
+C:\Users\svasco\Documents\OOPL\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\svasco\Documents\OOPL\Lottery\Lottery\obj\Debug\Lottery.pdb
+C:\Users\svasco\Documents\OOPL\Lottery\Lottery\obj\Debug\Lottery.Form1.resources
